@@ -1,2 +1,3 @@
 # EE599
-deep learning
+Deep Learning
+Adversarial-training-based Background Removal Algorithm
